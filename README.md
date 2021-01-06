@@ -1,4 +1,4 @@
-# URI Online Judge Fetcher
+<h1 align="center"> URI Online Judge Fetcher </h1>
 
 <p align="center">
     <img src="https://img.shields.io/github/license/marcelogui/urijudge_fetcher?style=plastic">
@@ -6,7 +6,7 @@
 
 ## 📝️ URI Online Judge
 
-[URI Online Judge](https://www.urionlinejudge.com.br/) is a platform that provides programming practice through challenges and exercises, with hundreds of problems that can be solved using 20 different languages. Each problem is part of 8 big categories, allowing both the begginner and the expert to find a suitable challenge for his level.
+[URI Online Judge](https://www.urionlinejudge.com.br/) is a platform that provides programming practice through challenges and exercises, with hundreds of problems that can be solved using 20 different languages. Each problem belongs to one of 8 big categories, allowing both the begginner and the expert to find a suitable challenge for his level.
 
 By listing exercises for complete beginners, URI is perfect for instructors who wish to use an auto grading platform.
 
