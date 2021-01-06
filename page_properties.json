@@ -1,0 +1,151 @@
+{
+  "answer_types": {
+    "Accepted": 1,
+    "Compilation error": 2,
+    "Runtime error": 3,
+    "Time limit exceeded": 4,
+    "Presentation error": 5,
+    "Wrong answer": 6,
+    "Closed": 7
+  },
+
+  "sort_options": [{
+      "type": ["id", "problem_id", "answer_id", "language_id", "created"]
+    },
+    {
+      "direction": ["asc", "desc"]
+    }
+  ],
+
+  "languages": [{
+      "id": 1,
+      "language": "C",
+      "extension": ".c"
+    },
+    {
+      "id": 2,
+      "language": "C++",
+      "extension": ".cpp"
+    },
+    {
+      "id": 3,
+      "language": "Java",
+      "extension": ".java"
+    },
+    {
+      "id": 4,
+      "language": "Python",
+      "extension": ".py"
+    },
+    {
+      "id": 5,
+      "language": "Python 3",
+      "extension": ".py"
+    },
+    {
+      "id": 6,
+      "language": "Ruby",
+      "extension": ".rb"
+    },
+    {
+      "id": 7,
+      "language": "C#",
+      "extension": ".cs"
+    },
+    {
+      "id": 8,
+      "language": "Scala",
+      "extension": ".scala"
+    },
+    {
+      "id": 9,
+      "language": "Lua",
+      "extension": ".lua"
+    },
+    {
+      "id": 10,
+      "language": "JavaScript",
+      "extension": ".js"
+    },
+    {
+      "id": 11,
+      "language": "Java 8",
+      "extension": ".java"
+    },
+    {
+      "id": 12,
+      "language": "Go",
+      "extension": ".go"
+    },
+    {
+      "id": 13,
+      "language": "PostgreSQL",
+      "extension": ".sql"
+    },
+    {
+      "id": 14,
+      "language": "C99",
+      "extension": ".c"
+    },
+    {
+      "id": 15,
+      "language": "Kotlin",
+      "extension": ".kt"
+    },
+    {
+      "id": 16,
+      "language": "C++17",
+      "extension": ".cpp"
+    },
+    {
+      "id": 17,
+      "language": "Haskell",
+      "extension": ".hs"
+    },
+    {
+      "id": 18,
+      "language": "OCaml",
+      "extension": ".ml"
+    },
+    {
+      "id": 19,
+      "language": "Pascal",
+      "extension": ".pas"
+    },
+    {
+      "id": 20,
+      "language": "Python 3.8",
+      "extension": ".py"
+    },
+    {
+      "id": 21,
+      "language": "Java 14",
+      "extension": ".java"
+    },
+    {
+      "id": 22,
+      "language": "Dart",
+      "extension": ".dart"
+    },
+    {
+      "id": 23,
+      "language": "R",
+      "extension": ".r"
+    },
+    {
+      "id": 24,
+      "language": "PHP",
+      "extension": ".php"
+    },
+    {
+      "id": 26,
+      "language": "Clojure",
+      "extension": ".clj"
+    },
+    {
+      "id": 31,
+      "language": "Rust",
+      "extension": ".rs"
+    }
+  ]
+}
